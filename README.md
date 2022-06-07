@@ -1,3 +1,5 @@
-# Repositorio do Desafio sobre Projeto Git/Github da Digital Innovation One (DIO)
+# Repositorio do Desafio sobre Projeto Git/Github da DIO
 
-Desafio de Projeto sobre Git/Github
+Repositório criado para o desafio Git/Github
+
+## Links Úteis
